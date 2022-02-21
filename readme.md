@@ -33,7 +33,7 @@ cargo test
 
 - `child_number.rs`
 
-Indicate Child number from [BIP-0044](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki). For example, "0'" is a index zero and hardened child.
+Indicate Child number from [BIP-0044](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki). For example, `0'` is a index zero and hardened child.
 
 - `keys.rs`
 
